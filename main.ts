@@ -1,3 +1,4 @@
 basic.forever(function () {
-    basic.showNumber(banana.bananas(0))
+    basic.showNumber(3)
+    banana.calibratePin(3)
 })
