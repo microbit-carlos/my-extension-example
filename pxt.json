@@ -11,7 +11,7 @@
         "myfile.ts",
         "main.ts",
         "README.md",
-        "myfile.cpp.ts"
+        "myfile.cpp"
     ],
     "testFiles": [
         "test.ts"
