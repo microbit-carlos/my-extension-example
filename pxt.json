@@ -8,6 +8,7 @@
     },
     "files": [
         "main.blocks",
+        "myfile.ts",
         "main.ts",
         "README.md",
         "myfile.cpp.ts"
